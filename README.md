@@ -44,8 +44,8 @@ Step 5 : Test for the XOR patterns.
 
 ## PROGRAM
 ```
-Developed by Amrish R
-Register no  212221040012
+Developed by Barath.E
+Register no  212221040026
 ```
 
 ```
